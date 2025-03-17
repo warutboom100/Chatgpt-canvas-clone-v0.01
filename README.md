@@ -9,7 +9,6 @@
 - `pdfmake`  
 - `markdown-draft-js`  
 
-## Demo  
+### DEMO TEST APPLICATION
 https://github.com/user-attachments/assets/7bea5c03-be4a-4fa8-af7c-ead9e6c910dd
-Watch the demo video here:  
 
