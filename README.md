@@ -10,8 +10,6 @@
 - `markdown-draft-js`  
 
 ## Demo  
-
+https://github.com/user-attachments/assets/7bea5c03-be4a-4fa8-af7c-ead9e6c910dd
 Watch the demo video here:  
-[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1waU-CLaLbOK0Ej7VsEY4lYLVjWEU69py/view?usp=sharing)  
 
-Click the link above to view the demo in action.  
